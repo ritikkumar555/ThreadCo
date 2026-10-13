@@ -4,7 +4,7 @@ ThreadCo is a modern e-commerce website frontend built using **HTML5 and CSS3**.
 
 ## 🚀 Live Demo
 
-[View ThreadCo Live](https://ritikkumar555.github.io/HTML-Project-1/)
+[View ThreadCo Live](https://threadco-e-commerce-platform-ritik.vercel.app/)
 
 ## 📸 Screenshots
 
