@@ -26,7 +26,7 @@ ThreadCo is a modern e-commerce website frontend built using **HTML5 and CSS3**.
 
 ![ThreadCo Responsive](./screenshots/responsive.png)
 
-> **Note:** Replace the screenshot paths above with your actual screenshot filenames.
+
 
 ## 🛠️ Technologies Used
 
